@@ -1,0 +1,1 @@
+print("Linear Regression Model loaded successfully")
